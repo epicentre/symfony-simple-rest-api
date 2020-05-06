@@ -1,0 +1,9 @@
+vendor/
+node_modules/
+.dockerignore
+.gitignore
+*.md
+/var/
+.git/
+.idea/
+.DS_Store/
